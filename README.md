@@ -19,9 +19,9 @@ These names have been written into "candidates.txt"
 
 ### Instructions to copy the environment to run the program without any dependency issue.
 
-I have made a conda environment for this challenge and have saved that in "politicalsocialnetwork.yml"
+I have made a conda environment for this program and have saved that in "politicalsocialnetwork.yml"
 
-For performing and running all these files its a better choice to activate this environment in which these have been written and executed.
+For performing and running all these files it is a better choice to activate this environment in which these have been written and executed.
 
 Follow these steps to activate this environment:
 	"conda env create -f politicalsocialnetwork.yml"
